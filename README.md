@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Archi_project3
+# Archi_project1
 =======
 # Project 1. MIPS Assembler
 This project is to implement a MIPS ISA assembler and a given code is a basic skeleton for input and output.

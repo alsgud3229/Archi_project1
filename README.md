@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Archi_project3
+# Archi_project1
 =======
 # Project 1. MIPS Assembler
 This project is to implement a MIPS ISA assembler and a given code is a basic skeleton for input and output.
@@ -25,4 +25,4 @@ $ make test # This will test all examples in sample_output
 ## Q & A
 If you find any errors in this code or have a question, please leave it on AjouBB.
 >>>>>>> 7e53fe33accf36a09c50c5ffc46e9ba290c7957a
-# Archi_project3
+# Archi_project1
